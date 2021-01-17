@@ -15,7 +15,7 @@ Company:
 2. URL
 
 
-## Important:
+## Important
 
 [Wayscript](https://wayscript.com/) was used for sending weekly job alert to email.
 
