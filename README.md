@@ -7,6 +7,7 @@ Libraries used:
 2. bs4
 3. re
 
-Important:
-For the weekly email we used [Wayscript](https://wayscript.com/)
+## Important:
+
+[Wayscript](https://wayscript.com/) was used for sending weekly job alert to email.
 
