@@ -9,6 +9,7 @@ Libraries used:
 3. re
 
 Final job alert structure:
+
 Company:
 1. Job title
 2. URL
