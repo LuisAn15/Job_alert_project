@@ -1,11 +1,19 @@
 # Job Alert Project
+*(This is my first web scraping project with Python).*
 
-This is my first web scraping project with Python.
+This project scrape job data from Bumeran, which is a popular job website in South America.
 
 Libraries used:
 1. kora
 2. bs4
 3. re
+
+Job post structure:
+
+Company:
+1. Job title
+2. URL
+
 
 ## Important:
 
