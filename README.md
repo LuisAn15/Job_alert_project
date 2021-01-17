@@ -4,9 +4,9 @@
 This project scrape job data from Bumeran, which is a popular job website in South America.
 
 ## Libraries used
-1. kora
-2. bs4
-3. re
+..* kora
+..* bs4
+..* re
 
 ## Final job alert structure
 
