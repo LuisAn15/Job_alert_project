@@ -8,8 +8,7 @@ Libraries used:
 2. bs4
 3. re
 
-Job post structure:
-
+Final job alert structure:
 Company:
 1. Job title
 2. URL
